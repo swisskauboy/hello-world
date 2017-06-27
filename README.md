@@ -1,3 +1,3 @@
 # hello-world
-My first GitHub repository
-Read me first, please
+My first GitHub repository (but I've done Mercurial before ;-)
+REALLY, READ ME NOW!!!!
